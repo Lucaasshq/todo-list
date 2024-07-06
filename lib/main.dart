@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
-            seedColor: Colors.deepPurple, primary: Colors.yellow),
+            seedColor: Colors.white, primary: Colors.yellow),
         useMaterial3: true,
       ),
       home: TarefaPage(title: 'Todo'),
