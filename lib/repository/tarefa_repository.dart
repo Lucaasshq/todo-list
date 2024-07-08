@@ -10,4 +10,8 @@ class TarefaRepository {
   List<Tarefa> listaTarefas() {
     return _tarefa;
   }
+
+  void remove(String id) {
+    _tarefa.removeWhere(((tarefa) => tarefa.id == id));
+  }
 }

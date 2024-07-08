@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
             seedColor: Colors.white, primary: Colors.yellow),
         useMaterial3: true,
       ),
-      home: TarefaPage(title: 'Todo'),
+      home: TarefaPage(title: 'Todo List'),
     );
   }
 }
