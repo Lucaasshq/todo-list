@@ -1,6 +1,4 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:todolist/colors/colors.dart';
 import 'package:todolist/repository/tarefa_repository.dart';
 import './model/tarefa.dart';
