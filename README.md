@@ -1,16 +1,15 @@
-# todolist
+<h1 align="left">Lista de Tarefas  📓</h1>
 
-A new Flutter project.
+###
 
-## Getting Started
+<h3 align="left">Banco de dados: SQLite 🎲</h3>
 
-This project is a starting point for a Flutter application.
+###
 
-A few resources to get you started if this is your first Flutter project:
+<img align="left" height="600" src="https://github.com/user-attachments/assets/da5f6327-2953-4425-88b3-565e2b2a5b80"  />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+###
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img align="left" height="600" src="https://github.com/user-attachments/assets/f699d9db-1231-4c25-889c-3d367c4b303e"  />
+
+###
